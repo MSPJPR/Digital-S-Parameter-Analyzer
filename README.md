@@ -1,4 +1,6 @@
 # Digital-S-Parameter-Analyzer
+
+website link: https://mspjpr.github.io/Digital-S-Parameter-Analyzer/
 Objective:
 
 This project is a web-based interactive tool designed to calculate and visualize S-parameters (Scattering Parameters) for a given frequency. It allows users to input a frequency value and calculates the S11, S21, S12, and S22 parameters, displaying them both as text and as a dynamic chart.
